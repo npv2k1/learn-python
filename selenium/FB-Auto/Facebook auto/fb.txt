@@ -1,0 +1,4 @@
+document.querySelectorAll('[aria-haspopup="menu"]')
+document.querySelectorAll('[aria-haspopup="menu"]')[1].click()
+document.querySelectorAll('[data-pagelet="root"')[3].getElementsByTagName('a')[0].click()
+document.querySelectorAll('[data-pagelet="root"')[3].getElementsByTagName('a')[0].getAttribute('href')
