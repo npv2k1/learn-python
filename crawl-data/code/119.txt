@@ -1,0 +1,7 @@
+Số thuận nghịch là số thỏa mãn nếu đảo ngược lại vẫn là chính nó.
+Viết chương trình C cho phép nhập vào một số n và kiểm tra xem n có phải là số thuận nghịch hay không.
+Nếu đúng in ra số 1, ngược lại nếu sai in ra số 0.
+INPUT
+1991
+OUTPUT
+1

@@ -1,0 +1,20 @@
+Viết chương trình C cho phép nhập vào hai ma trận A và B có cùng số hàng và số cột là n và m. Tìm ma trận hiệu của ma trận A và ma trận B, in ra màn hình.
+Trong đó:
+INPUT
+- Hàng thứ nhất là số hàng và số cột của hai ma trận
+- Các hàng tiếp theo là các phần tử của ma trận A và ma trận B
+OUTPUT
+- Ma trận hiệu kết quả
+
+INPUT
+3 3
+1 2 3
+4 5 6
+7 8 9
+3 4 5
+6 7 8
+1 2 3
+OUTPUT
+-2 -2 -2
+-2 -2 -2
+6 6 6

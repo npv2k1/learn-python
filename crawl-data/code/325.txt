@@ -1,0 +1,15 @@
+Viết chương trình C cho phép nhập vào mảng A gồm n phần tử số nguyên (n>2). Đếm và  in ra các phần tử là số chẵn và lẻ trong mảng.(nếu không có số nào thỏa mãn thì in ra 0)
+Trong đó: 
+INPUT
+- Dòng đầu tiên là số phần tử của mảng
+- Dòng thứ hai là các phần tử của mảng
+OUTPUT
+- Dòng đầu tiên là số phần tử thỏa mãn là số lẻ và liệt kê
+- Dòng thứ hai là số phần tử thỏa mãn là số chẵn và liệt kê
+
+INPUT
+7
+2 5 8 1 5 12 11
+OUTPUT
+4 5 1 5 11
+3 2 8 12

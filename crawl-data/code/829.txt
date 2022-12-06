@@ -1,0 +1,5 @@
+Một số được coi là số đẹp khi nó đồng thời vừa chia hết cho một số nguyên tố và chia hết cho bình phương của số nguyên tố đó.  Viết chương trình liệt kê các số đẹp như vậy trong đoạn giữa hai số nguyên dương cho trước.
+INPUT
+1 50
+OUTPUT
+4 8 9 12 16 18 20 24 25 27 28 32 36 40 44 45 48 49 50

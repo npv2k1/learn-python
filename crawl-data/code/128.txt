@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào hai số a,b (a có thể lớn hơn b). Thực hiện tìm tổng các số nguyên tố nằm trong khoảng a,b và in ra màn hình.
+INPUT
+100 1
+OUTPUT
+1060

@@ -1,0 +1,15 @@
+Viết chương trình C cho phép nhập vào mảng một chiều n phần tử (n>1) và thực hiện in ra các phần tử cùng số lần xuất hiện của chúng trong mảng
+Trong đó:
+-INPUT:
+ Hàng thứ nhất là số phần tử của mảng
+ Hàng thứ hai là các phần tử của mảng
+
+INPUT
+7
+2 3 3 2 1 9 5
+OUTPUT
+2 2
+3 2
+1 1
+9 1
+5 1

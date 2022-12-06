@@ -1,0 +1,6 @@
+Số Strong là số thỏa mãn có tổng giai thừa các chữ số của nó bằng chính nó. Ví dụ: 145 = 1! + 4! + 5!
+Viết chương trình C cho phép nhập vào số n và kiểm tra xem n có phải số Strong hay không. Nếu đúng in ra 1 sai in ra 0.
+INPUT
+145
+OUTPUT
+1

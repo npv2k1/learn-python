@@ -1,0 +1,18 @@
+Viết chương trình C cho phép nhập vào ma trận vuông cấp n (n>1). Thực hiện tìm hàng có nhiều phần tử là số nguyên tố nhất. Nếu có nhiều hơn một hàng thỏa mãn thì in ra hàng đầu tiên.
+Trong đó:
+INPUT
+- Dòng đầu tiên là cấp của ma trận
+- Các dòng tiếp theo là các phần tử của ma trận
+OUTPUT
+- Dòng đầu tiên là số thứ tự hàng thỏa mãn
+- Dòng thứ hai liệt kê các phần tử thỏa mãn
+
+INPUT
+4
+8 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+OUTPUT
+1
+2 3

@@ -1,0 +1,8 @@
+Viết chương trình C cho phép nhập vào ba cạnh của một tam giác và kiểm tra xem ba cạnh có thỏa mãn là ba cạnh của tam giác đặc biệt nào đó,như là tam giác vuông, cân, đều hay không.
+Nếu là tam giác đều in ra 3
+Nếu là tam giác cân in ra 2
+Nếu là tam giác vuông in ra 1
+INPUT
+3 3 3
+OUTPUT
+3

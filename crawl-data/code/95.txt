@@ -1,0 +1,5 @@
+Viết chương trình C nhập vào 2 số nguyên a và b. Tính tổng và in ra màn hình
+INPUT
+10 20
+OUTPUT
+30

@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào 1 số và kiểm tra xem số đó có phải là số nguyên tố hay không. Nếu đúng in ra 1, sai in ra 0.
+INPUT
+11
+OUTPUT
+1

@@ -1,0 +1,7 @@
+Viết chương trình C cho phép nhập vào số hàng và cột  của hình bình hành. Thực hiện in ra hình bình hành ngược
+INPUT
+3 5
+OUTPUT
+*****
+~*****
+~~*****

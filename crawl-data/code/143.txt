@@ -1,0 +1,8 @@
+Viết chương trình C cho phép nhập vào n là cạnh của hình vuông và in ra hình vuông các ký tự *.
+INPUT
+4
+OUTPUT
+****
+****
+****
+****

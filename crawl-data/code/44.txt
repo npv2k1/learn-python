@@ -1,0 +1,6 @@
+Một từ trong xâu ký tự được định nghĩa là một dãy ký tự liên tiếp không có khoảng trống. Hãy đếm số từ của 
+xâu và in kết quả ra màn hình
+INPUT
+mon thcs    2 nam 2017
+OUTPUT
+5

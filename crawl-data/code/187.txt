@@ -1,0 +1,11 @@
+Viết chương trình C cho phép nhập vào n là cạnh của hình vuông. Thực hiện in ra hình vuông số theo nguyên tắc tương ứng.
+INPUT
+4
+OUTPUT
+4444444
+4333334
+4322234
+4321234
+4322234
+4333334
+4444444

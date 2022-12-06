@@ -1,0 +1,6 @@
+Viết chương trình C cho phép người dùng nhập vào một ký tự và kiểm tra xem ký tự đó có nằm trong bảng chữ cái hay không.
+Nếu đúng in ra 1, sai in ra 0.
+INPUT
+a
+OUTPUT
+1

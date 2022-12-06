@@ -1,0 +1,6 @@
+Viết chương trình nhập vào một chuỗi và tách các ký tự trong chuỗi đó.
+INPUT
+ptit.edu.vn thcs2
+
+OUTPUT
+p t i t . e d u . v n t h c s 2

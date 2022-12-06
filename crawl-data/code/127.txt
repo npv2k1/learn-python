@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào n và tính tổng các số nguyên tố nhỏ hơn n.
+INPUT
+10
+OUTPUT
+17

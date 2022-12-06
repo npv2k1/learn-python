@@ -1,0 +1,10 @@
+Viết chương trình C cho phép nhập vào số hàng và số cột của hình chữ nhật. In ra hình chữ nhật số 1 với các đường số 0 ở giữa tương ứng.
+INPUT
+6 5
+OUTPUT
+11011
+11011
+00000
+00000
+11011
+11011

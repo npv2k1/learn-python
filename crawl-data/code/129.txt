@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào một số và phân tích thành thừa số các số nguyên tố. (Mỗi thừa số nguyên tố cách nhau một khoảng trắng, mỗi thừa số nguyên tố chỉ liệt kê một lần)
+INPUT
+10
+OUTPUT
+2 5

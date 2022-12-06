@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào một số n, thực hiện tìm tổng các chữ số của n và in ra màn hình.
+INPUT
+1234
+OUTPUT
+10

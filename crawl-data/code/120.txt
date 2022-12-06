@@ -1,0 +1,9 @@
+Viết chương trình C cho phép nhập vào một số n, thực hiện đếm số lần xuất hiện của các chữ số trong n và in ra màn hình.
+INPUT
+112345
+OUTPUT
+1 2
+2 1
+3 1
+4 1
+5 1

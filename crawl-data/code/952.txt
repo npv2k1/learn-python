@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào ba số và tìm giá trị nhỏ nhất trong ba số đó.
+INPUT
+10 20 30
+OUTPUT
+10

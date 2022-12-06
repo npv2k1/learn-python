@@ -1,0 +1,6 @@
+Cho hai chuỗi ký tự S1 và S2. Hãy viết chương trình tìm các từ chỉ xuất hiện trong S1 mà không xuất hiện trong S2. Chú ý: mỗi từ chỉ liệt kê 1 lần và sắp xếp theo thứ tự xuất hiện trong từ điển
+INPUT
+abc ab ab ab abcd 
+ab abc
+OUTPUT
+abcd

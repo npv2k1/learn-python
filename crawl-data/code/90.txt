@@ -1,0 +1,5 @@
+Một số được coi là đẹp nếu nó là số thuận nghịch và có ít nhất 3 ước số nguyên tố khác nhau.  Viết chương trình in ra các số đẹp như vậy trong một đoạn giữa hai số nguyên cho trước 
+INPUT
+2 100
+OUTPUT
+66

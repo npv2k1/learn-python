@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào một số n bất kỳ, tìm và in ra chữ số đầu tiên và cuối cùng của n.
+INPUT
+1234
+OUTPUT
+1 4

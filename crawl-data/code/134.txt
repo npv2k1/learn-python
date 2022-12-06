@@ -1,0 +1,6 @@
+Số hoàn hảo là số có tổng các ước số (nhỏ hơn chính nó) bằng nó. Ví dụ: 6 = 1 + 2 + 3.
+Viết chương trình cho phép nhập vào số n và liệt kê các số hoàn hảo nhỏ hơn n.
+INPUT
+1000
+OUTPUT
+6 28 496

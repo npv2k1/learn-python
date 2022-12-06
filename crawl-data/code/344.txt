@@ -1,0 +1,10 @@
+Viết chương trình C cho phép nhập vào một chuỗi. Thực hiện loại bỏ các từ trùng và in ra kết quả
+Trong đó:
+INPUT
+- Hàng thứ nhất là chuỗi ban đầu
+OUTPUT
+- Chuỗi kết quả
+INPUT
+mon thcs2 hoc la mon 2tc hoc
+OUTPUT
+mon thcs2 hoc la 2tc

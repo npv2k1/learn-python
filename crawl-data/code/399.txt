@@ -1,0 +1,14 @@
+Viết chương trình C cho phép nhập vào mảng A gồm n phần tử số nguyên (n>2). Tìm giá trị lớn nhất, nhỏ nhất và vị trí của chúng trong mảng.(nếu có nhiều hơn 1 phần tử thỏa mãn thì in ra vị trí cuối cùng tìm thấy)
+Trong đó: 
+INPUT
+- Dòng đầu tiên là số phần tử của mảng
+- Dòng thứ hai là các phần tử của mảng
+OUTPUT
+- Giá trị lớn nhất và vị trí
+- Giá trị nhỏ nhất và vị trí
+INPUT
+8
+9 1 2 1 18 16 5 9
+OUTPUT
+18 5
+1 4

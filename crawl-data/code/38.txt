@@ -1,0 +1,7 @@
+Ma trận xoáy ốc cấp N là ma trận vuông có N*N phần tử. Các số được điền vào ma trận trận theo chiều kim đồng hồ theo thứ tự tăng dần bắt đầu từ 1
+INPUT
+3
+OUTPUT
+1 2 3
+8 9 4
+7 6 5

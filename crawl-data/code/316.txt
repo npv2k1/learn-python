@@ -1,0 +1,6 @@
+Viết chương trình C cho phép nhập vào mảng A n phần tử số nguyên (với n > 2). Tìm giá trị lớn nhất và lớn thứ hai trong mảng
+INPUT
+6
+80 23 79 58 11 10
+OUTPUT
+80 79

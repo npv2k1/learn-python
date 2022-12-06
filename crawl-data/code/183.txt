@@ -1,0 +1,27 @@
+viết chương trình C cho phép nhập vào số hàng và số cột của hình chữ nhật. Vẽ hình chữ nhật số theo nguyên tắc tương ứng.
+INPUT
+4 4
+OUTPUT
+1234
+2341
+3421
+4321
+
+OR
+INPUT
+3 5
+OUTPUT
+12345
+23451
+34521
+
+OR
+INPUT
+6 4
+OUTPUT
+1234
+2341
+3421
+4321
+5321
+6321

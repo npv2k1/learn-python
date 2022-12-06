@@ -1,0 +1,5 @@
+Viết chương trình cho phép nhập vào chuỗi và đếm xem trong chuỗi có bao nhiêu số, chữ cái và ký tự đặc biệt (ký tự đặc biệt là ký tự không phải là số hoặc chữ cái)
+INPUT
+test3@ptit.edu.vn
+OUTPUT
+1 13 3

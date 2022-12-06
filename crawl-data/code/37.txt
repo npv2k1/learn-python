@@ -1,0 +1,9 @@
+Cho một ma trận cấp M*N chỉ bao gồm các số nguyên dương không quá 1000.Viết chương trình trước hết loại bỏ hàng có tổng lớn nhất sau đó tính toán lại trên ma trận ban đầu và loại tiếp cột có tổng lớn nhất ra khỏi ma trận
+INPUT
+3 3
+1 2 4
+3 4 0
+6 3 5
+OUTPUT
+2 4
+4 0

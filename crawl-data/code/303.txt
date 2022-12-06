@@ -1,0 +1,15 @@
+Viết chương trình C cho phép nhập vào mảng một chiều n phần tử (n>1) và thực hiện xóa một phần tử tại vị trí p sau đó in ra mảng kết quả
+Trong đó:
+-INPUT:
+ Hàng thứ nhất là số phần tử của mảng
+ Hàng thứ hai là các phần tử của mảng
+ Hàng thứ ba là vị trí phần tử cần xóa
+-OUTPUT
+ mảng kết quả sau khi xóa
+
+INPUT
+5
+2 3 7 9 1
+3
+OUTPUT
+2 3 9 1

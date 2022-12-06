@@ -1,0 +1,41 @@
+Thông tin về sách gồm có: 1. mã sách là số nguyên tự động tăng; 2. tên sách; 3. tên tác giả; 4. giá tiền; 
+Viết chương trình cho phép ghi ra file nhị phân(yêu cầu file được đặt tên là mã sinh viên và tên file mở rộng .bin ) thực hiện 3 chức năng:
+1. thêm mới sách
+2. cập nhật thông tin sách
+3. hiển thị danh sách sách theo thứ tự tăng dần giá tiền
+Mô tả dữ liệu vào:
+- Dòng thứ nhất là lựa chọn chức năng thực hiện
+- Dòng thứ hai
+   + Nếu lựa chọn ở dòng thứ nhất là 1 thì nhập số sách sẽ thêm mới
+   + Nếu lựa chọn ở dòng thứ nhất là 2 thì nhập mã sách sẽ sửa đổi
+- Dòng tiếp theo là thông tin sản phẩm
+Mô tả dữ liệu ra:
+- Nếu lựa chọn là 1 thì sau khi thực hiện xong chức năng in ra số sách được thêm
+- Nếu lựa chọn là 2 thì sau khi thực hiện xong chức năng in ra tên sách được sửa
+- Nếu lựa chọn là 3 thì in ra danh sách theo mô tả dưới đây: giá lấy 2 chữ số thập phân, các thông tin cách nhau một khoảng trắng 
+Một trường hợp sử dụng chương trình
+INPUT (1)
+1
+2
+hoa vang
+nhat anh
+12.5
+hoa trang
+nhat em
+11.5
+OUTPUT (1)
+2
+
+INPUT (2)
+2
+2
+hoa do
+nhat co
+10.5
+OUTPUT (2)
+hoa do
+INPUT (3)
+3
+OUTPUT
+2 hoa do 10.50 nhat co
+1 hoa vang 12.50 nhat anh

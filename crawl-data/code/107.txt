@@ -1,0 +1,5 @@
+Ba góc của một tam giác sẽ thỏa mãn là số nguyên dương và có tổng bằng 180. Viết chương trình C cho phép nhập vào 3 giá trị và kiểm tra xem có thỏa mãn là ba góc của một tam giác hay không. Nếu đúng in ra 1, ngược lại in ra 0.
+INPUT
+30 60 90
+OUTPUT
+1

@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào hai số a và b( a có thể lớn hơn b). Liệt kê các sô Strong nằm trong khoảng a,b. (các kết quả thỏa mãn cách nhau một khoảng trắng)
+INPUT
+1 1000
+OUTPUT
+1 2 145

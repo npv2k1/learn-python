@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào một số n và in ra tất cả các ước số của n. (Mỗi ước được liệt kê cách nhau một khoảng trắng)
+INPUT
+12
+OUTPUT
+1 2 3 4 6 12

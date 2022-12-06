@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào n và in ra màn hình n số đầu tiên thuộc dãy fibonacci
+INPUT
+10
+OUTPUT
+0 1 1 2 3 5 8 13 21

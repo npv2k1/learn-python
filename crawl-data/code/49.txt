@@ -1,0 +1,5 @@
+Tên người dùng sẽ được chuẩn hóa theo nguyên tắc tên được viết đầu tiên, phân tách với phần họ và tên đệm dấu phẩy. Các chữ cái nằm trong tên đều được viết hoa; chữ cái đầu tiên của tên đệm và họđược viết hoa, các chữ cái còn lại viết thường.
+INPUT
+ngUYEN     van nam
+OUTPUT
+NAM, Nguyen Van

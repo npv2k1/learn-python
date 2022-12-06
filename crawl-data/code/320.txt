@@ -1,0 +1,15 @@
+Viết chương trình C cho phép nhập vào mảng A n phần tử số nguyên (n>2). Đếm các phần tử xuất hiện nhiều hơn một lần và liệt kê.
+Trong đó:
+INPUT
+- Dòng đầu tiên là số phần tử của mảng
+- Dòng thứ hai là các phần tử của mảng
+OUTPUT
+- Dòng đầu tiên là số các phần tử thỏa mãn
+- Dòng thứ hai là các phần tử thõa mãn
+
+INPUT
+7
+1 5 10 10 5 2 3
+OUTPUT
+2
+5 10

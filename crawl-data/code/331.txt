@@ -1,0 +1,26 @@
+viết chương trình C cho phép nhập vào số hàng và số cột của hình chữ nhật. Vẽ hình chữ nhật số theo nguyên tắc tương ứng.
+INPUT
+4 4
+OUTPUT
+ABCD
+BCDA
+CDBA
+DCBA
+
+Hoặc 
+INPUT
+3 5
+OUTPUT
+ABCDE
+BCDEA
+CDEBA
+
+Hoặc
+INPUT
+5 3
+OUTPUT
+ABC
+BCA
+CBA
+CBA
+CBA

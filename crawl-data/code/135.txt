@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào hai số a và b (a có thể lớn hơn b). Thực hiện liệt kê các số hoàn hảo nằm trong khoảng a và b.
+INPUT
+1 1000
+OUTPUT
+6 28 496

@@ -1,0 +1,15 @@
+Viết chương trình C cho phép nhập ma trận A là ma trận vuông cấp n. Tìm tổng các phần tử là số nguyên tố thuộc tam giác dưới.
+Trong đó
+INPUT
+- Dòng đầu tiên là cấp của ma trận
+- Các dòng tiếp theo là các phần tử của ma trận
+OUTPUT
+- Dòng đầu tiên in kết quả của chương trình (trường hợp không tồn tại số nguyên tố nào thõa mãn, in ra 0)
+INPUT
+4
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+OUTPUT
+29

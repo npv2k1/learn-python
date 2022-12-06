@@ -1,0 +1,5 @@
+Viết chương trình C tìm giá trị lớn nhất trong hai số
+INPUT
+10 5
+OUTPUT
+10

@@ -1,0 +1,9 @@
+Viết chương trình C cho phép nhập vào số hàng, số cột của hình chữ nhật và in ra hình chữ nhật số tương ứng.
+INPUT
+5 4
+OUTPUT
+1234
+1234
+1234
+1234
+1234

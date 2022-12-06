@@ -1,0 +1,6 @@
+Viết chương trình C cho phép nhập vào n. Thực hiện liệt kê các số nguyên tố nhỏ hơn n và thỏa mãn có tổng các chữ số chia hết cho 5. Có bao nhiêu số như vậy
+INPUT
+100
+OUTPUT
+5 19 23 37 41 73
+6

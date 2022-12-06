@@ -1,0 +1,10 @@
+Viết chương trình C cho phép nhập vào chiều cao (số hàng) của tam giác và thực hiện in ra tam giác tương ứng.
+(Lưu ý mỗi số ở output cách nhau một khoảng trắng)
+INPUT
+5
+OUTPUT
+1
+2 4
+7 11 16
+22 29 37 46
+56 67 79 92 106

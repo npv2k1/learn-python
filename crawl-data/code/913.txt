@@ -1,0 +1,11 @@
+[Mã câu hỏi: 913] Một chương trình (tạm gọi là server) được triển khai tại địa chỉ 10.170.4x.202 (hỗ trợ đa luồng, thời gian xử lý tối đa cho một yêu cầu 5s), yêu cầu xây dựng chương trình (tạm gọi là client) thực hiện:
+Kết nối tới server tại cổng 1109, sử dụng luồng đối tượng(ObjectOutputStream/ObjectInputStream) để trao đổi thông tin theo kịch bản, biết đối tượng là thể hiện của lớp Student gồm các thuộc tính (id int,code String, gpa float, gpaLetter String) và 
+private static final long serialVersionUID = 20151107;
+a.	Gửi chuỗi gồm mã sinh viên và mã câu hỏi với định dạng "MaSV;MaCauhoi". Ví dụ: "B15DCCN999;913"
+b.	Nhận một đối tượng là thể hiện của lớp Student từ server
+c.	Thực hiện chuyển đổi điểm gpa của đối tượng nhận được sang dạng chữ và gán cho gpaLetter.  Nguyên tắc chuyển đổi
+i.	3.7 – 4 -> A
+ii.	3.0 – 3.7 -> B
+iii.	2.0 – 3.0 -> C
+iv.	1.0 – 2.0 -> D
+v.	0 – 1.0 -> F

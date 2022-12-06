@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào hai số a, b. Thực hiện tìm ước chung lớn nhất của a và b và in ra màn hinh.
+INPUT
+12 30
+OUTPUT
+6

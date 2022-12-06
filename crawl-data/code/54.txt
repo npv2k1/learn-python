@@ -1,0 +1,6 @@
+Viết chương trình nhập vào một chuỗi và tách các ký tự trong chuỗi đó theo thứ tự đảo ngược
+INPUT
+ptit.edu.vn thcs2
+
+OUTPUT
+2 s c h t n v . u d e . t i t p

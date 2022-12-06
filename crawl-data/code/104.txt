@@ -1,0 +1,8 @@
+Năm nhuận là năm thõa mãn 1 trong hai điều kiện sau:
+1. chia hết cho 4 và không chia hết cho 100
+2. chia hết cho 400
+Viết chương trình C cho phép kiểm tra một năm có phải là năm nhuận hay không. Nếu đúng in ra 1 sai in ra 0
+INPUT
+2016
+OUTPUT
+1

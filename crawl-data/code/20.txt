@@ -1,0 +1,5 @@
+Viết chương trình cho phép nhập vào hai số nguyên dương và tìm tất cả các số Amstrong (là số có tổng các lũy thừa bậc n của các chữ số của nó bằng chính nó - với n là số chữ số) nằm trong khoảng đó (nếu không tồn tại số nào thì in ra 0)
+INPUT
+10 1000
+OUTPUT
+153 370 371 407

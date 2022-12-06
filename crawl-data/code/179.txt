@@ -1,0 +1,28 @@
+Viết chương trình C cho phép nhập vào số hàng và số cột của hình chữ nhât. Thực hiện in ra hình chữ nhật theo nguyên tắc tương ứng.
+INTPUT
+5 5
+OUTPUT
+54321
+54322
+54333
+54444
+55555
+
+Hoặc
+INPUT
+4 6
+OUTPUT
+654333
+654444
+655555
+666666
+Hoặc
+INPUT
+6 4
+OUTPUT
+6543
+6543
+6543
+6544
+6555
+6666

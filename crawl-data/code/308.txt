@@ -1,0 +1,15 @@
+Viết chương trình C cho phép nhập vào mảng A một chiều n phần tử (n>1) và mảng B một chiều m phần tử (m>1). Thực hiện chèn mảng B vào mảng A tại vị trí P và in ra mảng kết quả
+Trong đó:
+-INPUT:
+ Hàng thứ nhất là số phần tử của mảng A và mảng B
+ Hàng thứ hai là các phần tử của mảng A
+ Hàng thứ ba là các phần tử của mảng B
+ Hàng thứ tư là vị trí chèn 
+
+INPUT
+5 3
+1 2 3 4 5
+6 7 8
+3
+OUTPUT
+1 2 3 6 7 8 4 5

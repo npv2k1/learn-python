@@ -1,0 +1,5 @@
+Địa chỉ email của cán bộ PTIT được cấp theo nguyên tắc ghép tên với chữ cái đầu tiên của họ và tên đệm. Viết chương trình cho phép tạo các địa chỉ email theo tên cán bộ(có thể không chuẩn)
+INPUT
+ngUYEN     van nam
+OUTPUT
+namnv@ptit.edu.vn

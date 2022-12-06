@@ -1,0 +1,9 @@
+Viết chương trình C cho phép nhập vào n là độ dài cạnh hình bình hành. Thực hiện in ra hình bình hành rỗng tương ứng.
+INPUT
+5
+OUTPUT
+~~~~*****
+~~~*...*
+~~*...*
+~*...*
+*****

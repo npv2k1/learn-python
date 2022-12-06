@@ -1,0 +1,7 @@
+Ma trận xoáy ốc nguyên tố cấp N là ma trận vuông có N*N phần tử. Các số được điền vào ma trận theo chiều kim đồng hồ đều là các số nguyên tố từ nhỏ đến lớn
+INPUT
+3
+OUTPUT
+2 3 5
+19 23 7
+17 13 11

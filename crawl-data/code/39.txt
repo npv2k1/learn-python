@@ -1,0 +1,7 @@
+Ma trận xoáy ốc ngược cấp N là ma trận vuông có N*N phần tử. Các số được điền vào ma trận trận theo chiều kim đồng hồ theo thứ tự giảm dần về 1
+INPUT
+3
+OUTPUT
+9 8 7
+2 1 6
+3 4 5

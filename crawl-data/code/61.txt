@@ -1,0 +1,6 @@
+Viết chương trình nhập mảng n (n>1) phần tử số nguyên. Đếm các phần tử là số thuận nghịch có ít nhất hai chữ số trong mảng và in ra chúng
+INPUT
+6
+1 525 44 19 181 25
+OUTPUT
+3 525 44 181

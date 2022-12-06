@@ -1,0 +1,13 @@
+Viết chương trình C cho phép nhập vào mảng một chiều n phần tử (n>1) và thực hiện in ra phàn tử lớn thứ hai trong mảng
+Trong đó:
+-INPUT:
+ Hàng thứ nhất là số phần tử của mảng
+ Hàng thứ hai là các phần tử của mảng
+-OUTPUT
+ Phần tử lớn thứ hai trong mảng
+
+INPUT
+5
+2 3 7 9 1
+OUTPUT
+7

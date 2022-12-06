@@ -1,0 +1,5 @@
+Viết chương trình cho phép nhập vào chuỗi và tìm từ dài nhất và ngắn nhất xuất hiện trong chuỗi đó (Nếu có nhiều hơn 1 từ thỏa mãn thì in ra từ xuất hiện trước trong chuỗi)
+INPUT
+mon thcs2 khoai hon thcs1
+OUPUT
+thcs2 mon

@@ -1,0 +1,6 @@
+Viết chương trình C cho phép nhập vào 2 số a và b. Sắp xếp a, b theo thứ tự tăng dần tổng các chữ số.
+(Nếu a và b có tổng các chữ số bằng nhau thì in ra a trước)
+INPUT
+99 1111
+OUTPUT
+1111 99

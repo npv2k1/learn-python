@@ -1,0 +1,13 @@
+Viết chương trình C nhập vào số cột của một nửa hình thoi bên phải và in ra hình tương ứng.
+INPUT
+5
+OUTPUT
+~~~~*
+~~~**
+~~***
+~****
+*****
+~****
+~~***
+~~~**
+~~~~*

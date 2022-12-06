@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào hai số a và b. Thực hiện tìm bội chung nhỏ nhất của a và b và in ra màn hình.
+INPUT
+12 30
+OUTPUT
+60

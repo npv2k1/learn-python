@@ -1,0 +1,9 @@
+Viết chương trình nhập vào n và in ra hình theo quy luật
+INPUT
+5
+OUTPUT
+1 2 3 4 5
+2 1 2 3 4
+3 2 1 2 3
+4 3 2 1 2
+5 4 3 2 1

@@ -1,0 +1,39 @@
+Thông tin về thiết bị gồm có: 1. mã thiết bị là số nguyên tự động tăng; 2. tên thiết bị; 3. thông tin thiết bị gồm: giá nhập,số năm bảo hành.
+Viết chương trình cho phép ghi ra file nhị phân(yêu cầu file được đặt tên là mã sinh viên và tên file mở rộng .bin ) thực hiện 3 chức năng:
+1. thêm mới
+2. cập nhật thông tin theo mã thiết b
+3. hiển thị danh sách thiết bị có giá nhập giảm dần
+Mô tả dữ liệu vào:
+- Dòng thứ nhất là lựa chọn chức năng thực hiện
+- Dòng thứ hai
+   + Nếu lựa chọn ở dòng thứ nhất là 1 thì nhập số thiết bị sẽ thêm mới
+   + Nếu lựa chọn ở dòng thứ nhất là 2 thì nhập mã thiết bị cần sửa đổi
+- Dòng tiếp theo là thông tin thiết bị
+Mô tả dữ liệu ra:
+- Nếu lựa chọn là 1 thì xuất ra số thiết bị đã được thêm
+- Nếu lựa chọn là 2 thì in ra mã thiết bị đã được sửa
+- Nếu lựa chọn là 3 thì in ra danh sách theo mô tả dưới đây (các thông tin cách nhau một khoảng trắng)
+Một trường hợp sử dụng chương trình
+INPUT (1)
+1
+2
+tu lanh
+16.5 2
+may giat
+8.5 4
+OUTPUT (1)
+2
+
+INPUT (2)
+2
+2
+dieu hoa
+20.5 1
+OUTPUT (2)
+2
+
+INPUT (3)
+3
+OUTPUT
+2 dieu hoa 20.5 1
+1 tu lanh 16.5 2

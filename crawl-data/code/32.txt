@@ -1,0 +1,11 @@
+Cho dãy số A có n phần tử chỉ bao gồm các số nguyên dương (không quá 9 chữ số). Hãy xác định các số
+nguyên tố trong dãy và đếm xem mỗi số xuất hiện bao nhiêu lần.
+Dữ liệu vào gồm dòng đầu ghi số phần tử của mảng, dòng thứ hai là các phần tử của mảng
+Dữ liệu ra các số nguyên tố trong dãy theo thứ tự từ nhỏ đến lớn và số lần xuất hiện của nó
+INPUT
+10
+1 2 3 3 2 1 3 2 7 8
+OUTPUT
+2 3
+3 3
+7 1

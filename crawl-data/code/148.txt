@@ -1,0 +1,7 @@
+Viết chương trình C cho phép nhập vào hàng và cột của hình bình hành. Thực hiện in hình bình hành sao.
+INPUT
+3 4
+OUTPUT
+****
+~*..*
+~~****

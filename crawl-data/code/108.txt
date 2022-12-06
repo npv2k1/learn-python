@@ -1,0 +1,6 @@
+Ba cạnh được gọi là cạnh của một tam giác nếu chúng nguyên dương và tổng của hai cạnh luôn lớn hơn cạnh còn lại.
+Viết chương trình C cho phép nhập vào 3 cạnh và kiểm tra xem có thỏa mãn là 3 cạnh của một tham giác hay không. Nếu đúng in ra 1, sai in ra 0.
+INPUT
+7 4 10
+OUTPUT
+1

@@ -1,0 +1,9 @@
+Viết chương trình C cho phép nhập vào chiều cao của tam giác và In ra tam giác hình sao rỗng tương ứng.
+INPUT
+5
+OUTPUT
+*
+**
+*.*
+*..*
+*****

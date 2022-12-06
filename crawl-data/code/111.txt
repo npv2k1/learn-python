@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào hai số a, b. Thực hiện tính tổng các số tự nhiên nằm trong khoảng a, b và in ra màn hình. (Lưu ý người dùng có thể nhập a lớn hơn b)
+INPUT
+1 10
+OUTPUT
+55

@@ -1,0 +1,14 @@
+Viết chương trình C cho phép nhập vào mảng A gồm n phần tư (n>1). Thực hiện dịch n phần tử của mảng sang phải và In ra mảng kết quả
+Trong đó:
+INPUT
+ Hàng thứ nhất là số phần tử n của mảng A
+ Hàng thứ hai là các phần tử của mảng A
+ Hàng thứ ba là số phần tử dịch
+OUTPUT
+  Mảng kết quả
+INPUT
+10
+1 2 3 4 5 6 7 8 9 10
+3
+OUTPUT
+8 9 10 1 2 3 4 5 6 7

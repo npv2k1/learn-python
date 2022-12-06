@@ -1,0 +1,6 @@
+Viết chương trình nhập mảng n phần tử số nguyên. Tìm khoảng cách nhỏ nhất của hai phần tử bất kỳ trong mảng. (Nếu có nhiều hơn 1 cặp phần tử thỏa mãn thì in cặp có phần tử xuất hiện đầu tiên)
+INPUT
+6
+1 5 3 19 18 25
+OUTPUT
+1 18 19

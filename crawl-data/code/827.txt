@@ -1,0 +1,5 @@
+Tìm từ in hoa xuất hiện trong chuỗi. Kết quả in ra từ theo thứ tự xuất hiện của chúng trong chuỗi.
+INPUT
+mon THCS2 la mon DE
+OUTPUT
+THCS2 DE

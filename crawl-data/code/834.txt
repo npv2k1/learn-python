@@ -1,0 +1,16 @@
+Viết chương trình C cho phép nhập vào mảng A gồm n phần tư (n>1). Thực hiện sắp xếp tăng dần các phần tử của mảng theo thuật toán nổi bọt và In ra. Lưu ý chương trình dừng lại khi mảng đã thỏa mãn tăng dần.
+Trong đó:
+INPUT
+ Hàng thứ nhất là số phần tử n của mảng A
+ Hàng thứ hai là các phần tử của mảng A
+OUTPUT
+ Kết quả các bước sắp xếp theo thuật toán
+
+INPUT
+8
+1 3 8 2 9 7 6 5
+OUTPUT
+1 3 2 8 7 6 5 9
+1 2 3 7 6 5 8 9
+1 2 3 6 5 7 8 9
+1 2 3 5 6 7 8 9

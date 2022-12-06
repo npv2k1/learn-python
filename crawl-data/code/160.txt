@@ -1,0 +1,9 @@
+Viết chương trình C cho phép nhập vào số dòng và in ra tam giác cân ngược tương ứng.
+INTPUT
+5
+OUTPUT
+*********
+~*.....*
+~~*...*
+~~~*.*
+~~~~*

@@ -1,0 +1,8 @@
+[Mã câu hỏi: 931] Một chương trình (tạm gọi là server) được triển khai tại địa chỉ 10.170.4x.202, sử dụng giao thức UDP tại cổng 1107, yêu cầu xây dựng chương trình (tạm gọi là client) thực hiện
+1.	Giao tiếp với server tại cổng 1107, theo kịch bản:
+a.	Gửi thông điệp là một chuỗi chứa mã sinh viên và mã câu hỏi theo định dạng “;studentCode;qCode”. Ví dụ: “;B15DCCN001;931”
+b.	Nhận thông điệp là một chuỗi từ server theo định dạng “requestId;a1,a2,...,a50” 
+-	requestId là chuỗi ngẫu nhiên duy nhất
+-	a1 -> a50 là 50 số nguyên ngẫu nhiên
+c.	Thực hiện tìm giá trị lớn nhất và giá trị nhỏ nhất thông điệp trong a1 -> a50 và gửi thông điệp lên lên server theo định dạng “requestId;max,min”
+d.	Đóng socket và kết thúc

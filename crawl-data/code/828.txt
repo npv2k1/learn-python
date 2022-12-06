@@ -1,0 +1,5 @@
+Một số được coi là số đẹp nếu nó là số nguyên tố và ngược lại của nó cũng là một số nguyên tố khác.  Viết chương trình liệt kê các số đẹp như vậy trong một đoạn giữa hai số nguyên dương cho trước.
+INPUT
+1 50
+OUTPUT 
+13 17 31 37

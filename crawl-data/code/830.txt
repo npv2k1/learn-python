@@ -1,0 +1,7 @@
+Viết chương trình C cho phép nhập vào một số n, thực hiện đếm số lần xuất hiện của các chữ số nguyên tố trong n và in ra màn hình. (Liệt kê theo thứ tự xuất hiện các chữ số)
+INPUT
+112345
+OUTPUT
+2 1
+3 1
+5 1

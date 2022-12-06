@@ -1,0 +1,13 @@
+Viết chương trình cho phép nhập vào số n và in ra hình thoi tương ứng với n.
+INPUT
+5
+OUTPUT
+~~~~*
+~~~***
+~~*****
+~*******
+*********
+~*******
+~~*****
+~~~***
+~~~~*

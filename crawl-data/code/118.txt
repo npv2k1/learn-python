@@ -1,0 +1,6 @@
+Viết chương trình C cho phép nhập vào một số n và in ra số đảo ngược của n.
+Lưu ý nếu chữ số cuối cùng là 0 thì khi in số đảo ngược có thể loại bỏ số này
+INPUT
+1234
+OUTPUT
+4321

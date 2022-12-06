@@ -1,0 +1,20 @@
+[Mã câu hỏi: 951](RMI) Một chương trình (tạm gọi là RMI server) được triển khai tại địa chỉ 10.170.4x.202 cung cấp giao diện cho phép triệu gọi từ xa với thông tin như sau:
+a.	Giao diện từ xa
+    public interface IProduct extends Remote{
+       public Product getProduct(String studentCode) throws RemoteException;
+       public boolean insertProduct(Product product) throws RemoteException;
+   }
+b.	Lớp Product gồm các thông tin: id int, code String, name String, importPrice float, exportPrice float, createdUser String. Và 02 hàm khởi dựng 
+   public Product()
+   public Product(int id, String code, String name, float ImportPrice, float ExportPrice, String createdUser)
+
+c.	Đối tượng cài đặt giao diện từ xa được đăng ký RegistryServer với tên: product951
+Cần nghiệp vụ thêm một sản phẩm mới vào hệ thống, yêu cầu viết chương trình tại máy trạm (RMI client) thực hiện theo thứ tự:
+a.	Cung cấp mã người dùng (trong trường hợp này là mã sinh viên) để nhận về một đối tượng Product có id và code đã được thiết lập trước.
+b.	Thực hiện nhập thông tin sản phẩm gồm:
+i.	 Tên sản phẩm, yêu cầu độ dài lớn hơn 8 và nhỏ hơn 20
+ii.	Giá nhập và giá xuất, yêu cầu giá nhập phải nhỏ hơn giá xuất
+(Lưu ý:
+-	có khai báo class version trong lớp Product
+private static final long serialVersionUID = 20151107;
+-	Tất cả các lớp được viết trong package RMI

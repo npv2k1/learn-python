@@ -1,0 +1,13 @@
+Viết chương trình C cho phép nhập n và in ra hình chứa hình thoi tương ứng
+INTPUT
+5
+OUTPUT
+**********
+****~~****
+***~~~~***
+**~~~~~~**
+*~~~~~~~~*
+**~~~~~~**
+***~~~~***
+****~~****
+**********

@@ -1,0 +1,9 @@
+Nhập ma trận A là ma trận vuông cấp n. Đếm các số nguyên tố trên đường chéo chính và đường chéo phụ (mỗi phần tử thỏa mãn chỉ đếm một lần)
+INPUT
+4
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+OUTPUT
+3

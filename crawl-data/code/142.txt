@@ -1,0 +1,12 @@
+Tam giác pascal là tam giác có công thức tính giá trị một vị trí bất kỳ như sau
+(n,k) = n!/k!(n-k)! 
+Trong đó: n là hàng và k là cột.
+Viết chương trình C cho phép nhập vào n và in ra tam giác pascal tương ứng (lưu ý mỗi phần tử cách nhau 1 khoảng trắng)
+INPUT
+5
+OUTPUT
+    1
+   1 1
+  1 2 1
+ 1 3 3 1
+1 4 6 4 1

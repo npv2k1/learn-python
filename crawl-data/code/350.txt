@@ -1,0 +1,13 @@
+Viết chương trình C nhập vào ma trận A vuông cấp n. Tính tổng các phần tử thuộc tam giác trên và tổng các phần tử thuộc tam giác dưới. Lưu ý không bao gồm đường chéo chính.
+INPUT
+- Hàng thứ nhất là cấp của ma trận
+- Các hàng tiếp theo là các phần tử của ma trận
+OUTPUT
+- Kết quả tính toán
+INPUT
+3
+1 2 3
+4 5 6
+7 8 9
+OUTPUT
+11 19

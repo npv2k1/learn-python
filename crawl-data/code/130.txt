@@ -1,0 +1,6 @@
+Số armstrong là số A có n chữ số và thỏa mãn tổng của lũy thừa bậc n của từng chữ số trong A bằng chính nó. Ví dụ: 371 = 3mũ3 + 7mũ3 + 1mũ3
+Viết chương trình C kiểm tra một số xem có phải là số armstrong hay không. Nếu đúng in ra 1, sai in ra 0.
+INPUT
+371
+OUTPUT
+1

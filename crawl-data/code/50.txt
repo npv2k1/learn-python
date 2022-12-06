@@ -1,0 +1,5 @@
+Tìm từ xuất hiện nhiều nhất trong chuỗi (không phân biệt hoa thường). Kết quả in ra từ xuất hiện nhiều nhất (ở dạng in thường) và số lần xuất hiện của chúng
+INPUT
+aaa  bbb ccc   AA   bb   aa   ccc aa
+OUTPUT
+aa 3

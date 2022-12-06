@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào số n và liệt kê tất cả các số nguyên tố nhỏ hơn n. (Các số nguyên tố in ra cách nhau một khoảng trắng)
+INPUT
+20
+OUTPUT
+2 3 5 7 11 13 17 19

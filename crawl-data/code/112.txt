@@ -1,0 +1,5 @@
+Viết chương trình C cho phép người dùng nhập vào n (với n nằm trong khoảng từ 1-9), thực hiện in ra bảng cửu chương của n. (mỗi phần tử cách nhau một khoảng trắng)
+INPUT
+5
+OUTPUT
+5 10 15 20 25 30 35 40 45 50

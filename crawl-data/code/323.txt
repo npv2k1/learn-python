@@ -1,0 +1,13 @@
+Viết chương trình C cho phép nhập vào mảng A n phần tử số nguyên (n>2). Thực hiện loại bỏ các phần tử đã xuất hiện và In ra mảng kết quả.
+Trong đó:
+INPUT
+- Dòng đầu tiên là số phần tử của mảng
+- Dòng thứ hai là các phần tử của mảng
+OUTPUT
+- Mảng kết quả
+
+INPUT
+7
+1 5 10 10 5 2 3
+OUTPUT
+1 5 10 2 3

@@ -1,0 +1,9 @@
+Tìm số lần xuất hiện các từ trong chuỗi (không phân biệt hoa thường). Kết quả in ra từ (ở dạng in thường) và số lần xuất hiện của chúng
+INPUT
+aaa  bbb ccc   AA   bb   aa   ccc aa
+OUTPUT
+aaa 1
+bbb 1
+ccc 2
+aa 3
+bb 1

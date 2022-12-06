@@ -1,0 +1,5 @@
+Viết chương trình cho phép nhập vào hai số nguyên dương và tìm tất cả các số Strong (là số có tổng giai thừa các chữ số bằng chính nó) nằm trong khoảng đó (nếu không tồn tại số nào thì in ra 0)
+INPUT
+1 1000
+OUTPUT
+1 2 145

@@ -1,0 +1,9 @@
+Viết chương trình C cho  phép nhập vào chiều cao (số hàng) của tam giác và thực hiện in ra tam giác số theo nguyên tắc tương ứng.
+INPUT
+5
+OUTPUT
+13579
+3579
+579
+79
+9

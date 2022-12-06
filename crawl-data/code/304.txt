@@ -1,0 +1,13 @@
+Viết chương trình C cho phép nhập vào mảng một chiều n phần tử (n>1) và thực hiện in ra các giá trị có trong mảng theo thứ tự xuất hiện
+Trong đó:
+-INPUT:
+ Hàng thứ nhất là số phần tử của mảng
+ Hàng thứ hai là các phần tử của mảng
+-OUTPUT
+ Các giá trị xuất hiện trong mảng
+
+INPUT
+7
+2 3 3 2 1 9 5
+OUTPUT
+2 3 1 9 5

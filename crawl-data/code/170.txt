@@ -1,0 +1,8 @@
+Viết chương trình C cho phép nhập vào hàng và cột của hình chữ nhật và in ra hình chữ nhật các chữ số 1 và 0 tương ứng.
+INPUT
+4 4
+OUTPUT
+1111
+1001
+1001
+1111

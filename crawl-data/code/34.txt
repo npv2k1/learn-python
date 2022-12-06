@@ -1,0 +1,9 @@
+Nhập 2 mảng (a, N) và (b, M) và số nguyên p. Hãy chèn mảng b vào vị trí p của mảng a.
+Dữ liệu vào: Dòng đầu tiên ghi 3 số N M và p
+Các dòng tiếp theo ghi dữ liệu mảng a và b.
+INPUT
+4 3 1
+5 3 6 7
+2 9 11
+OUTPUT
+5 2 9 11 3 6 7

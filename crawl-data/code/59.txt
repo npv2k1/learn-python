@@ -1,0 +1,9 @@
+Viết chương trình cho phép nhập vào một chuỗi và thực hiện tách các từ trong chuỗi
+INPUT
+hoc vien cong nghe bcvt
+OUTPUT
+hoc
+vien
+cong
+nghe
+bcvt

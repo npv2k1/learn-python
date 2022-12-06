@@ -1,0 +1,8 @@
+Viết chương trình C cho  phép nhập vào chiều cao (số hàng) của tam giác và thực hiện in ra tam giác ký tự theo nguyên tắc tương ứng.
+INPUT
+4
+OUTPUT
+ACEG
+CEG
+EG
+G

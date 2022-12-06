@@ -1,0 +1,15 @@
+Viết chương trình C cho phép nhập vào hai chuỗi a và b. Thực hiện chèn chuỗi b vào chuỗi a tại vị trí p.
+Trong đó
+INPUT
+- Hàng thứ nhất là chuỗi a
+- Hàng thứ hai là chuỗi b
+- Hàng cuối cùng là vị trí p cần chèn chuỗi b vào chuỗi a
+OUTPUT
+- Chuỗi kết quả chèn b vào a tại vị trí p
+
+INPUT
+mon thcs2 hoc de
+ngon ngu C.
+1
+OUTPUT
+ngon ngu C.mon thcs2 hoc de

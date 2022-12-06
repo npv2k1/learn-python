@@ -1,0 +1,45 @@
+Thông tin về tiền chi tiêu gồm có: 1. ID khoản mục chi tiêu là số nguyên tự động tăng từ 1; 2. loại khoản mục: 1 là thu và 2 là chi; 3. tên khoản mục; 4. số tiền 
+Viết chương trình cho phép ghi ra file nhị phân(yêu cầu file được đặt tên là mã sinh viên và tên file mở rộng .bin ) thực hiện 3 chức năng:
+1. thêm mới khoản mục
+2. cập nhật thông tin khoản mục
+3. hiển thị tổng thu, tổng chi và số tiền tiết kiệm được
+Mô tả dữ liệu vào:
+- Dòng thứ nhất là lựa chọn chức năng thực hiện
+- Dòng thứ hai
+   + Nếu lựa chọn ở dòng thứ nhất là 1 thì nhập khoản mục chi tiêu mới
+   + Nếu lựa chọn ở dòng thứ nhất là 2 thì nhập id khoản mục chi tiêu
+- Dòng tiếp theo là thông tin khoản mục
+Mô tả dữ liệu ra:
+- Nếu lựa chọn là 1 thì sau khi thực hiện xong chức năng in ra số khoản mục thu và chi được thêm
+- Nếu lựa chọn là 2 thì sau khi thực hiện xong chức năng in ra tên khoản mục được sửa
+- Nếu lựa chọn là 3 thì in ra kết quả theo mô tả dưới đây: [Tổng thu] [Tổng chi] [Số tiền còn lại]
+ các thông tin cách nhau một khoảng trắng 
+Một trường hợp sử dụng chương trình
+INPUT (1)
+1
+3
+1
+luong
+10000
+2
+tien nha
+5000
+1
+thuong
+1000
+OUTPUT (1)
+2 1
+
+INPUT (2)
+2
+3
+2
+tien an
+2000
+OUTPUT (2)
+tien an
+
+INPUT (3)
+3
+OUTPUT
+10000 7000 3000

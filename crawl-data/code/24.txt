@@ -1,0 +1,5 @@
+Tìm ước chung lớn nhất và bội chung nhỏ nhất của hai số nguyên dương a và b
+INPUT
+12 18
+OUTPUT
+6 36

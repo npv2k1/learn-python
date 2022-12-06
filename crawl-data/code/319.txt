@@ -1,0 +1,12 @@
+Viết chương trình C cho phép nhập vào mảng A gồm n phần tử số nguyên (n>2). Tìm giá trị nhỏ nhất và nhỏ thứ hai và in ra.
+Trong đó: 
+INPUT
+- Dòng đầu tiên là số phần tử của mảng
+- Dòng thứ hai là các phần tử của mảng
+OUTPUT
+- Giá trị nhỏ nhất và giá trị nhỏ thứ hai
+INPUT
+6
+80 23 79 58 11 10
+OUTPUT
+10 11

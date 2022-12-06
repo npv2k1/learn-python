@@ -1,0 +1,5 @@
+Viết chương trình cho phép nhập vào một chuỗi và thực hiện chuyển chữ thường thành chữ hoa và ngược lại chữ hoa thành chữ thường.
+INPUT
+nguYen Canh CAO
+OUTPUT
+NGUyEN cANH cao

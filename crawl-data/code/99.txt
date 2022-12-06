@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào số ngày, thực hiện chuyển số ngày sang năm, tuần, ngày (Bỏ qua trường hợp năm nhuận)
+INPUT
+373
+OUTPUT
+1 1 1

@@ -1,0 +1,10 @@
+Viết chương trình C cho phép nhập vào số hàng và cột của hình chữ nhật và in ra hình chữ nhật các số tương ứng.
+(Lưu ý các số được in liền nhau)
+INPUT
+5 5
+OUTPUT
+01010
+01010
+01010
+01010
+01010

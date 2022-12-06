@@ -1,0 +1,8 @@
+Phương trình bậc 2 là phương trình dạng ax2 + bx + c = 0.
+Viết chương trình C cho phép nhập vào a,b,c và thực hiện giải phương trình bậc 2.
+Nếu vô nghiệm thì in ra dòng NO
+Nếu có nghiệm thì in các nghiệm (luôn lấy 2 chữ số thập phân sau dấu chấm phẩy) cách nhau một khoảng trắng.
+INPUT
+8 -4 -2
+OUTPUT
+0.81 -0.31

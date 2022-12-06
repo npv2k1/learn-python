@@ -1,0 +1,7 @@
+Viết chương trình C cho phép nhập vào một số nguyên dương và kiểm tra xem số đó là số chẵn hay số lẻ.
+Nếu là số chẵn thì in ra 0, số lẻ in ra 1
+(Lưu ý nếu người dùng nhập vào số nhỏ hơn 0 thì in ra 0)
+INPUT
+5
+OUTPUT
+1

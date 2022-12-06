@@ -1,0 +1,39 @@
+Thông tin về sản phẩm gồm có: 1. mã sản phẩm là số nguyên tự động tăng; 2. tên sản phẩm; 3. giá là số thực gồm giá nhập, giá xuất.
+Viết chương trình cho phép ghi ra file nhị phân(yêu cầu file được đặt tên là mã sinh viên và tên file mở rộng .bin ) thực hiện 3 chức năng:
+1. thêm mới
+2. cập nhật giá theo mã sản phẩm
+3. hiển thị danh sách sản phẩm có chênh lệch giá xuất với giá nhập giảm dần
+Mô tả dữ liệu vào:
+- Dòng thứ nhất là lựa chọn chức năng thực hiện
+- Dòng thứ hai
+   + Nếu lựa chọn ở dòng thứ nhất là 1 thì nhập số sản phẩm sẽ thêm mới
+   + Nếu lựa chọn ở dòng thứ nhất là 2 thì nhập mã sản phẩm sẽ sửa đổi
+- Dòng tiếp theo là thông tin sản phẩm
+Mô tả dữ liệu ra:
+- Nếu lựa chọn là 1 thì in ra số sản phẩm đã được thêm
+- Nếu lựa chọn là 2 thì in ra mã sản phẩm đã được sửa
+- Nếu lựa chọn là 3 thì hiển thị danh sách theo mô tả dưới đây: giá lấy 2 chữ số thập phân, các thông tin cách nhau một khoảng trắng 
+Một trường hợp sử dụng chương trình
+INPUT (1)
+1
+2
+banh ngot
+5.50 8.50
+nuoc ngot
+4.50 6.50
+OUTPUT (1)
+2
+
+INPUT (2)
+2
+2
+nuoc giai khat
+4.50 10.50
+OUTPUT (2)
+2
+
+INPUT (3)
+3
+OUTPUT
+2 nuoc giai khat 4.50 10.50
+1 banh ngot 5.50 8.50

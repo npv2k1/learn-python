@@ -1,0 +1,6 @@
+Một số được gọi là “lộc phát” nếu chỉ có các chữ số 0,6,8. Nhập vào một số nguyên dương không quá 9 
+chữ  số, hãy kiểm tra xem đó có phải số  lộc phát hay không. Nếu đúng in ra 1, sai in ra 0
+INPUT
+6068
+OUTPUT
+1

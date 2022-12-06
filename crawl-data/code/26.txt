@@ -1,0 +1,6 @@
+Dãy số  Fibonacci được định nghĩa như sau: F0  = 0, F1  = 1; Fi  = Fi-1  + Fi-2.  Cho số  nguyên dương n,  với 
+2<=n<=92. Hãy viết chương trình in ra n số Fibonacci đầu tiên.
+INPUT
+5
+OUPUT
+0 1 1 2 3

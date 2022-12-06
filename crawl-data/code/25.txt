@@ -1,0 +1,5 @@
+Viết chương trình phân tích một số  nguyên thành các thừa số  nguyên tố.
+INPUT
+28
+OUTPUT
+2 2 7

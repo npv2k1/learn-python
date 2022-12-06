@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập một số tự nhiên n và tính giai thừa của n.
+INPUT
+5
+OUTPUT
+120

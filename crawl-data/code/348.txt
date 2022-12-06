@@ -1,0 +1,20 @@
+Viết chương trình C cho phép nhập vào hai ma trận A (n hàng, m cột) và ma trận B (m hàng, n cột. Tìm ma trận tích của ma trận A và ma trận B, in ra màn hình.
+Trong đó:
+INPUT
+- Hàng thứ nhất là n và m
+- Các hàng tiếp theo là các phần tử của ma trận A và ma trận B
+OUTPUT
+- Ma trận tích kết quả
+
+INPUT
+3 3
+1 2 3
+4 5 6
+7 8 9
+3 4 5
+6 7 8
+1 2 3
+OUTPUT
+18 24 30
+48 63 78
+78 102 126

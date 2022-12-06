@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào một chuỗi, thực hiện phân tích chuỗi đã nhập chứa bao nhiêu chữ cái, chữ số và các ký tự khác.
+INPUT
+mon THCS 2 ...
+OUTPUT
+7 1 6

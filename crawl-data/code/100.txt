@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào hai số x và y và tìm mũ của chúng sử dụng hàm pow (thư viện math.h)
+INTPUT
+5 2
+OUTPUT
+25

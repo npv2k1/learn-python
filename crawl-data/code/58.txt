@@ -1,0 +1,5 @@
+Viết chương trình cho phép nhập vào một chuỗi và thực hiện loại bỏ các khoảng trắng giữa các từ trong chuỗi.
+INPUT
+nguyen canh cao
+OUPUT
+nguyencanhcao

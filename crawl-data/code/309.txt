@@ -1,0 +1,11 @@
+Viết chương trình C cho phép nhập vào mảng A gồm n phần tư (n>1). Thực hiện đảo ngược mảng và in ra kết quả.
+Trong đó:
+INPUT
+ Hàng thứ nhất là số phần tử n của mảng A
+ Hàng thứ hai là các phần tử của mảng A
+
+INPUT
+5
+1 2 3 4 5
+OUTPUT
+5 4 3 2 1

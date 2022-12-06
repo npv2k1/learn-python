@@ -1,0 +1,26 @@
+Viết chương trình C cho phép nhập vào số hàng và số cột của hình chữ nhật. Thực hiện in hình chữ nhật ký tự theo nguyên tắc tương ứng.
+INPUT
+4 4
+OUTPUT
+@ABC
+ABCC
+BCCC
+CCCC
+
+Hoặc
+INPUT
+3 5
+OUTPUT
+@ABCD
+ABCDD
+BCDDD
+
+Hoặc
+INPUT
+5 3
+OUTPUT
+@AB
+ABB
+BBB
+BBB
+BBB

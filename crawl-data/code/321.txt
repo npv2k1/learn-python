@@ -1,0 +1,5 @@
+Viết chương trình C cho phép nhập vào một chuỗi và chuyển chuỗi đã nhập thành chữ in hoa.
+INPUT
+mon thcs 2
+OUTPUT
+MON THCS 2

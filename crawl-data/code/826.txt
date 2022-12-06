@@ -1,0 +1,40 @@
+Thông tin về sinh viên gồm có: 1. Id sinh viên là số nguyên tự động tăng; 2. mã sinh viên; 3. tên sinh viên.
+Viết chương trình cho phép ghi ra file nhị phân(yêu cầu file được đặt tên là mã sinh viên và tên file mở rộng .bin ) thực hiện 3 chức năng:
+1. thêm mới
+2. cập nhật tên sinh viên
+3. tìm kiếm sinh viên theo mã hoặc có mã bắt đầu bằng chuỗi nhập vào
+Mô tả dữ liệu vào:
+- Dòng thứ nhất là lựa chọn chức năng thực hiện
+- Dòng thứ hai
+   + Nếu lựa chọn ở dòng thứ nhất là 1 thì nhập số sinh viên sẽ thêm mới
+   + Nếu lựa chọn ở dòng thứ nhất là 2 thì nhập mã sinh viên sẽ sửa đổi
+- Dòng tiếp theo là thông tin sinh viên
+Mô tả dữ liệu ra:
+- Nếu lựa chọn là 1 thì in ra số sinh viên được thêm
+- Nếu lựa chọn là 2 thì in ra mã sinh viên được sửa
+- Nếu lựa chọn là 3 thì in ra kết quả tìm kiếm theo mô tả dưới đây (các thông tin cách nhau một khoảng trắng)
+Một trường hợp sử dụng chương trình
+INPUT (1)
+1
+2
+b17dccn111
+nguyen van a
+b17dcvt112
+nguyen van b
+OUTPUT (1)
+2
+
+INPUT (2)
+2
+b17dccn111
+b17dcvt113
+tran van nam
+OUTPUT (2)
+b17dcvt113
+
+INPUT (3)
+3
+b17dcvt
+OUTPUT
+1 tran van nam b17dcvt113
+2 nguyen van b b17dcvt112

@@ -1,0 +1,27 @@
+Viết chương trình C cho phép nhập vào số hàng và số cột của hình chữ nhật. Thực hiện in hình chữ nhật số theo nguyên tắc tương ứng.
+INPUT
+4 4
+OUTPUT
+1234
+2344
+3444
+4444
+
+Hoặc
+INPUT
+3 5
+OUTPUT
+12345
+23455
+34555
+
+Hoặc
+INPUT
+6 4
+OUTPUT
+1234
+2344
+3444
+4444
+4444
+4444

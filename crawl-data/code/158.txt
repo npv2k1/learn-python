@@ -1,0 +1,9 @@
+Viết chương trình C cho phép nhập vào n là số hàng của tam giác. Thực hiện in tam giác cân các ký tự sao 
+INPUT
+5
+OUTPUT
+~~~~*
+~~~***
+~~*****
+~*******
+*********
