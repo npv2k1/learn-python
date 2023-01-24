@@ -16,9 +16,17 @@
 - Vẽ hình
 - simple game
 
-## Python với database
+## Python với data
 
-- mysql
+### Database
+
+mysql
+
+### Crawl data
+
+request
+
+### numpy
 
 ## Python network
 
@@ -30,14 +38,14 @@
 - unittest
 - selenium
 
-## Python xử lý ảnh
+## Python xử lý đa phương tiên
 
-- OpenCV
-- manim
+- OpenCV (image, video)
+- manim (video)
 
-## Python blockchain
+## Build own x
 
-- bitcoin
+- blockchain
 
 ## Python với api
 
