@@ -1,3 +1,0 @@
-a = document.getElementsByClassName('sjgh65i0')
-b = a[0].getElementsByTagName('span')
-b[1].click()
