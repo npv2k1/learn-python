@@ -161,3 +161,4 @@ cython_debug/
 
 # Ignore temp local projetc
 /temp
+*.exe
