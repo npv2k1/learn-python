@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblogs=self.webpackChunkblogs||[]).push([[401],{480:(e,l,t)=>{t.r(l),t.d(l,{default:()=>n});var s=t(7953),a=t(497);const n=e=>s.createElement(s.Fragment,null,s.createElement(a.A,e))}}]);
