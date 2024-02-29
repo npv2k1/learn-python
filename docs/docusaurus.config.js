@@ -65,7 +65,7 @@ const config = {
       {
         id: "basic",
         path: "../01-basic",
-        routeBasePath: "basic",
+        routeBasePath: "/",
         sidebarPath: require.resolve("./sidebars.js"),
       },
     ],
@@ -92,7 +92,7 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
-          { to: "/basic", label: "Basic", position: "left" },
+          { to: "/", label: "Basic", position: "left" },
           { to: "/tools", label: "Tools", position: "left" },
           // {
           //   type: "docSidebar",
@@ -109,44 +109,7 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: "dark",
-
-        links: [
-          {
-            title: "Basic",
-            items: [
-              {
-                label: "Basic",
-                to: "/basic",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Twitter",
-                href: "https://twitter.com/npv2k1",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/npv2k1/learn-node",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} npv2k1, Inc. Built with Docusaurus.`,
-      },
+      footer: {},
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
